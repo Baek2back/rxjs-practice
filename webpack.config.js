@@ -50,4 +50,5 @@ module.exports = {
       ignored: /node_modules/,
     },
   },
+  devtool: "source-map",
 };
